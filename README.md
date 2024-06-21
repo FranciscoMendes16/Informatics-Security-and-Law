@@ -1,2 +1,19 @@
 # Informatics-Security-and-Law
-Location of the Academic Paper - Ethics and Morality of Hacking: A Complex Universe
+
+The course discusses key issues at the intersection of technology and law, namely:
+
+- Open source software legal and security aspects
+
+- Ethics and Responsibility in AI
+
+- Liability in coding
+
+- Code as law
+
+- GDPR and its implications
+
+- European legislation on AI
+
+- EU Cybersecurity Act
+
+- White, Grey, Black hat hacking 
